@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Face Detecting algorithm.
 - 🌱 I’m currently learning Deep Learning and Computer Vision.
-- 👯 I’m looking to collaborate on [Linkedin](linkedin.com/in/karan-shivsharan)
 - 🤔 I’m looking for help with NLP
 - 💬 Ask me about any things regarding Machine Learning, Deep Learning.
 - 📫 How to reach me: [Linkedin](linkedin.com/in/karan-shivsharan)
